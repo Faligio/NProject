@@ -1,0 +1,20 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.opensdf
+*.suo
+*.VC.db
+
+# Rider
+.idea/
+
+# Build junk
+*.pdb
+*.obj
+*.ipch
+*.log
